@@ -2,3 +2,6 @@
 
 博客网站地址：
 > http://lanxuewei.gitee.io/static_blog/
+
+内容展示：
+![](http://psm763q72.bkt.clouddn.com/blog-index-pic.png)
