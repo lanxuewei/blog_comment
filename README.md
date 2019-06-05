@@ -4,4 +4,5 @@
 > http://lanxuewei.gitee.io/static_blog/
 
 内容展示：
-![](http://psm763q72.bkt.clouddn.com/blog-index-pic.png)
+
+![](http://psm763q72.bkt.clouddn.com/blog-show-pic.png)
